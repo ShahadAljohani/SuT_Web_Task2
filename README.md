@@ -3,7 +3,7 @@ Task 2 - Week 4 (Summer Training)
 
 --------
 ## About this task:
-Designing a website for user data input and saving it to a database using PHP and MySQL.
+Designed a website for user data input and saved it to a database using PHP and MySQL.
 
 ----------
 ## Steps:
