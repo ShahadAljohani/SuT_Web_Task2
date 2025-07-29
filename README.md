@@ -26,5 +26,7 @@ When the user types in their name and age and clicks Submit, the data is saved i
 You’ll find the code implementation in the `DB.php`, `index.html`, and `index2.html` files. 
 
 ----
+[Check out my website!](https://shahadaljohani.github.io/SuT_Web_Task2/)
+
 * for reference: codes were written by chatgpt and edited (a LOT) by me
   
