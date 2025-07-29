@@ -23,7 +23,8 @@ https://github.com/user-attachments/assets/06b8e94f-7784-4379-a7d4-ab23d91390c3
 The website shows how to connect a form to a database. It has two input fields: Name, and Age.
 When the user types in their name and age and clicks Submit, the data is saved in the database using PHP as a backend.
 
+You’ll find the code implementation in the `DB.php`, `index.html`, and `index2.html` files. 
+
 ----
-
-* for reference: codes were written by chatgpt and edited (a LOT) by me 
-
+* for reference: codes were written by chatgpt and edited (a LOT) by me
+  
