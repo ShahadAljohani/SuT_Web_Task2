@@ -28,5 +28,4 @@ You’ll find the code implementation in the `DB.php`, `index.html`, and `index2
 ----
 [Check out my new Page!](https://shahadaljohani.github.io/SuT_Web_Task2/)
 
-* for reference: codes were written by chatgpt and edited (a LOT) by me
   
